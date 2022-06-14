@@ -20,3 +20,5 @@
 <a href="https://tr.wikipedia.org/wiki/C_Sharp" target="blank"><img src="https://github.com/yunuserdemakpinar/yunuserdemakpinar/blob/main/images/languages/csharp.png?raw=true" alt="c" width="40" height="40"/></a>
 <a href="https://tr.wikipedia.org/wiki/Python" target="blank"><img src="https://github.com/yunuserdemakpinar/yunuserdemakpinar/blob/main/images/languages/python.png?raw=true" alt="c" width="40" height="40"/></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuserdemakpinar&show_icons=true&locale=en&layout=compact" alt="yunuserdemakpinar"/></p>
